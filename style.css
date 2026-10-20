@@ -1,0 +1,188 @@
+/*********************** reset ******************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+main {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+body {
+  padding: 5px;
+  background-color: #f7dcc2;
+}
+
+/************************* FORSIDE *************************/
+
+.box1 {
+  background-color: #fbede1;
+  padding: 2rem;
+  margin-top: 50px;
+}
+
+.jardinera1 {
+  padding: 0rem;
+}
+
+h1 {
+  color: #ff2f00;
+  font-size: 3.7rem;
+  font-family: "Konkhmer Sleokchher", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  margin-top: -57px;
+  @media (width>800px) {
+    font-size: 5rem;
+    margin-top: -68px;
+  }
+}
+.om_os {
+  color: #c47c41;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding: 9px 32px;
+  border: 1px solid #c47c41;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+.om_os:hover {
+  background-color: #c47c41;
+  color: white;
+  transition-duration: 0.6s;
+}
+
+.shopknap {
+  color: #c47c41;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding: 9px 32px;
+  border: 1px solid #c47c41;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+  align-self: center;
+}
+
+.shopknap:hover {
+  background-color: #c47c41;
+  color: white;
+  transition-duration: 0.6s;
+}
+
+.guideknap {
+  color: #c47c41;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  padding: 9px 32px;
+  border: 1px solid #c47c41;
+  border-radius: 25px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin: 10px;
+}
+
+.guideknap:hover {
+  background-color: #c47c41;
+  color: white;
+  transition-duration: 0.6s;
+}
+
+.forsidetekst {
+  color: white;
+  background-color: #f1a964;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 0.9rem;
+
+  text-decoration: none;
+  display: inline-block;
+  margin: 10px;
+  align-self: center;
+  padding: 9px 32px;
+  border: 1px solid #c47c41;
+  border-radius: 25px;
+  padding: 18px;
+  line-height: 22px;
+  margin-top: -14px;
+  margin-bottom: 30px;
+}
+
+.om_os_h2 {
+  color: #ff2f00;
+  font-size: 3rem;
+  font-family: "Konkhmer Sleokchher", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+footer {
+  background-color: #f3af6e;
+  margin-top: 3rem;
+}
+
+.jardinerafooter {
+  font-family: "Konkhmer Sleokchher", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+.Shoph2 {
+  color: #ff2f00;
+  font-size: 3rem;
+  font-family: "Konkhmer Sleokchher", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.yder_ramme {
+  background-color: #fbede1;
+  padding: 13px;
+}
+
+.yder_ramme2 {
+  background-color: #fbede1;
+  padding: 13px;
+}
+
+.yder_ramme3 {
+  background-color: #fbede1;
+  padding: 13px;
+}
+
+.yder_ramme4 {
+  background-color: #fbede1;
+  padding: 13px;
+}
+
+.yder_ramme5 {
+  background-color: #fbede1;
+  padding: 13px;
+}
+
+.yder_ramme6 {
+  background-color: #fbede1;
+  padding: 13px;
+}
+.ramme {
+  margin-bottom: 15px;
+}
